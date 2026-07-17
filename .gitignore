@@ -1,0 +1,13 @@
+# Godot 4+
+.godot/
+/android/
+
+# Godot-specific
+export_presets.cfg
+*.translation
+
+# Editor/OS
+.DS_Store
+*~
+.idea/
+.vscode/
