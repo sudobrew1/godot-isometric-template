@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://8wrunrbup5in"
-path="res://.godot/imported/grass-top-dirt-bottom.png-ebf77a14f18a308628242c28ab5cb10c.ctex"
+uid="uid://bq2h4gjwjlptv"
+path="res://.godot/imported/grass-northeast-dirt-southwest.png-f88c070c3833798707d5f5090162034f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/grass-top-dirt-bottom.png"
-dest_files=["res://.godot/imported/grass-top-dirt-bottom.png-ebf77a14f18a308628242c28ab5cb10c.ctex"]
+source_file="res://assets/grass-northeast-dirt-southwest.png"
+dest_files=["res://.godot/imported/grass-northeast-dirt-southwest.png-f88c070c3833798707d5f5090162034f.ctex"]
 
 [params]
 

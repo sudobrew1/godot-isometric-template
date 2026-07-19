@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://78xhdpsfahsu"
-path="res://.godot/imported/grass-wall-nw.png-5918e93b6393fd6f55a5e1cc0b3b9a15.ctex"
+uid="uid://373ebjw4r2k6"
+path="res://.godot/imported/grass-left-dirt-right.png-c7db0e5f01a65e2b794cbb0e59741fab.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/grass-wall-nw.png"
-dest_files=["res://.godot/imported/grass-wall-nw.png-5918e93b6393fd6f55a5e1cc0b3b9a15.ctex"]
+source_file="res://assets/grass-left-dirt-right.png"
+dest_files=["res://.godot/imported/grass-left-dirt-right.png-c7db0e5f01a65e2b794cbb0e59741fab.ctex"]
 
 [params]
 
